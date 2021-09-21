@@ -18,7 +18,7 @@ Skills:
 - HTML & CSS, VueJS, TypeScript & NodeJS basics
 
 🔭 I’m currently working on:
-- ✈️[Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/vita-galindoma/flight-planner)
+-  ✈️[Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/vita-galindoma/flight-planner)
 
 <!--
 **vita-galindoma/vita-galindoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
