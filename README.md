@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Vita Galindoma!
 
-Detail oriented, problem solver with a strong background in banking and operations. Have recently acquired programming (c#, .NET) and SQL knowledge. Open-minded and willing to learn.
+Detail oriented, problem solver with a strong background in banking and operations. Have recently acquired programming (C#, .NET) and SQL knowledge. Open-minded and willing to learn.
 
 📫 How to reach me:  [vita.galindoma@gmail.com](mailto:vita.galindoma@gmail.com) | [https://www.linkedin.com/in/vita-galindoma/](https://www.linkedin.com/in/vita-galindoma/)
 
